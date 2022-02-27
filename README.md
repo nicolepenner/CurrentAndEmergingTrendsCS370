@@ -16,4 +16,4 @@ From my understanding, the core ideology of computer science is problem solving.
 
 ### What are my ethical responsibilities to the end user and the organization?
 
-My responsibilities as a computer scientist to the end user
+My responsibilities as a computer scientist to the end user is to first and foremost respect their privacy. This includes not misusing their information that my program or application uses, and to keep that information secure. I also have a responsibility to be honest, trustworthy, honor confidentiality, avoid harming others, and contribute positively to soceity. I also have the responsibility to be transparent with users. My responsibilities to my organization is also the same as to users, but also that my work is my own and I do uphold the highest level of integrity. For my organization, it is my responsibility to comply with all regulations of ethics. 
